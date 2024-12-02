@@ -34,7 +34,6 @@ To enable CPU support, change the original line to:
 device = "cpu"
 ```
 
-```markdown
 ## Notes
 - Ensure your system has the required dependencies installed before running the notebook.
 - For GPU acceleration, ensure you have a compatible CUDA setup.
