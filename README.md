@@ -10,8 +10,8 @@ This project focuses on classifying audio samples of piano chords. The approach 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/alr04/CSI-5130-Final-Project>
-   cd <CSI-5130-Final-Project>
+   git clone https://github.com/alr04/CSI-5130-Final-Project
+   cd CSI-5130-Final-Project
 2. Install the required dependencies
    ```bash
    pip install -r requirements.txt
