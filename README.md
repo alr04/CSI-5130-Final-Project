@@ -1,7 +1,7 @@
 # Piano Chord Classification
 
 ## Introduction
-This project focuses on classifying audio samples of piano chords. The approach involves converting audio files into spectrogram images and using these images to train a machine learning model for classification.
+This project focuses on classifying audio samples of piano chords. The approach involves converting audio files into spectrogram images and using these images to train a CNN for classification.
 
 ## Dataset
 - Half of the `.wav` audio samples were downloaded from the [Zenodo Piano Chord Dataset](https://zenodo.org/records/4740877).
